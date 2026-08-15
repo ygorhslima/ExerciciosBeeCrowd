@@ -1,0 +1,15 @@
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/bin/Debug/net10.0/Ex01TempoEvento
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/bin/Debug/net10.0/Ex01TempoEvento.deps.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/bin/Debug/net10.0/Ex01TempoEvento.runtimeconfig.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/bin/Debug/net10.0/Ex01TempoEvento.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/bin/Debug/net10.0/Ex01TempoEvento.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.AssemblyInfoInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.AssemblyInfo.cs
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.csproj.CoreCompileInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.sourcelink.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/refint/Ex01TempoEvento.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/Ex01TempoEvento.genruntimeconfig.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex01TempoEvento/obj/Debug/net10.0/ref/Ex01TempoEvento.dll

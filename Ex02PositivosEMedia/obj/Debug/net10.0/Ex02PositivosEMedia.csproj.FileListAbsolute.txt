@@ -1,0 +1,15 @@
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/bin/Debug/net10.0/Ex02PositivosEMedia
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/bin/Debug/net10.0/Ex02PositivosEMedia.deps.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/bin/Debug/net10.0/Ex02PositivosEMedia.runtimeconfig.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/bin/Debug/net10.0/Ex02PositivosEMedia.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/bin/Debug/net10.0/Ex02PositivosEMedia.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.AssemblyInfoInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.AssemblyInfo.cs
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.csproj.CoreCompileInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.sourcelink.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/refint/Ex02PositivosEMedia.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/Ex02PositivosEMedia.genruntimeconfig.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex02PositivosEMedia/obj/Debug/net10.0/ref/Ex02PositivosEMedia.dll
