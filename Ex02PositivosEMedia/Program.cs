@@ -21,6 +21,6 @@ class URI
 
         double media = somaPositivos / quantidadePositivos;
         Console.WriteLine($"{quantidadePositivos} valores positivos");
-        Console.WriteLine(media.ToString("F1"));
+        Console.WriteLine($"Média: {media}");
     }
 }
