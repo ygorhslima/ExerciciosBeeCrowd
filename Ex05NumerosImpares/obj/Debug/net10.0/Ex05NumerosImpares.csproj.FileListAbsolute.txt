@@ -1,0 +1,15 @@
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/bin/Debug/net10.0/Ex05NumerosImpares
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/bin/Debug/net10.0/Ex05NumerosImpares.deps.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/bin/Debug/net10.0/Ex05NumerosImpares.runtimeconfig.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/bin/Debug/net10.0/Ex05NumerosImpares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/bin/Debug/net10.0/Ex05NumerosImpares.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.AssemblyInfoInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.AssemblyInfo.cs
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.csproj.CoreCompileInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.sourcelink.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/refint/Ex05NumerosImpares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/Ex05NumerosImpares.genruntimeconfig.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex05NumerosImpares/obj/Debug/net10.0/ref/Ex05NumerosImpares.dll

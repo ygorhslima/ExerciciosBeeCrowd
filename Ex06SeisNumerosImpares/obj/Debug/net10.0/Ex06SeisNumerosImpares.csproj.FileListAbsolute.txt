@@ -1,0 +1,15 @@
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/bin/Debug/net10.0/Ex06SeisNumerosImpares
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/bin/Debug/net10.0/Ex06SeisNumerosImpares.deps.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/bin/Debug/net10.0/Ex06SeisNumerosImpares.runtimeconfig.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/bin/Debug/net10.0/Ex06SeisNumerosImpares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/bin/Debug/net10.0/Ex06SeisNumerosImpares.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.AssemblyInfoInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.AssemblyInfo.cs
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.csproj.CoreCompileInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.sourcelink.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/refint/Ex06SeisNumerosImpares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/Ex06SeisNumerosImpares.genruntimeconfig.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex06SeisNumerosImpares/obj/Debug/net10.0/ref/Ex06SeisNumerosImpares.dll
