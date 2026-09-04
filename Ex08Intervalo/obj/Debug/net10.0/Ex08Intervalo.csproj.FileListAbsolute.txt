@@ -1,0 +1,15 @@
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/bin/Debug/net10.0/Ex08Intervalo
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/bin/Debug/net10.0/Ex08Intervalo.deps.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/bin/Debug/net10.0/Ex08Intervalo.runtimeconfig.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/bin/Debug/net10.0/Ex08Intervalo.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/bin/Debug/net10.0/Ex08Intervalo.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.AssemblyInfoInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.AssemblyInfo.cs
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.csproj.CoreCompileInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.sourcelink.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/refint/Ex08Intervalo.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/Ex08Intervalo.genruntimeconfig.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex08Intervalo/obj/Debug/net10.0/ref/Ex08Intervalo.dll
