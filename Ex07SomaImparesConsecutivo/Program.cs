@@ -10,12 +10,12 @@ O programa deve imprimir um valor inteiro. Este valor é a soma dos valores ímp
 
 using System; 
 
-class URI 
+public class URI 
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        int X = int.Parse(Console.ReadLine());
-        int Y = int.Parse(Console.ReadLine());
+        int X = int.Parse(Console.ReadLine() ?? "");
+        int Y = int.Parse(Console.ReadLine() ?? "");
        
         int min = Math.Min(X, Y);
         int max = Math.Max(X, Y);

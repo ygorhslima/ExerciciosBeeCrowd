@@ -1,0 +1,15 @@
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/bin/Debug/net10.0/Ex09QuadradoPares
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/bin/Debug/net10.0/Ex09QuadradoPares.deps.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/bin/Debug/net10.0/Ex09QuadradoPares.runtimeconfig.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/bin/Debug/net10.0/Ex09QuadradoPares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/bin/Debug/net10.0/Ex09QuadradoPares.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.AssemblyInfoInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.AssemblyInfo.cs
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.csproj.CoreCompileInputs.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.sourcelink.json
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/refint/Ex09QuadradoPares.dll
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.pdb
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/Ex09QuadradoPares.genruntimeconfig.cache
+/home/ygor/Documentos/GitHub/ExerciciosBeeCrowd/Ex09QuadradoPares/obj/Debug/net10.0/ref/Ex09QuadradoPares.dll
