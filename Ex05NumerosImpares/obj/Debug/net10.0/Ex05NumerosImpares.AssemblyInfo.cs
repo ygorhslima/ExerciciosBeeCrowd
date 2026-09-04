@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex05NumerosImpares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3c480028321b302d0d5add8dbfc3d79d92e85b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c0fdc93720e8944cdd063dd04c2cff42ff1827")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex05NumerosImpares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex05NumerosImpares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
