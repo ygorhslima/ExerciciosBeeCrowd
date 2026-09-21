@@ -23,7 +23,7 @@ public class Program
     {
         // obtendo o valor digitado pelo teclado
         int N = int.Parse(Console.ReadLine() ?? "");
-        for(int i = 1; i < 1000; i++)
+        for(int i = 1; i < 10000; i++)
         {
             if(i % N == 2)
             {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex09QuadradoPares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9513a1a30176ecf37a3e79c530b7e779e092b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73fab6ae3fbc3d47f0d32d04dd075e867bad7baa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex09QuadradoPares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex09QuadradoPares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
