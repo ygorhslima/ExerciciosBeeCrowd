@@ -30,7 +30,7 @@ Percentual de coelhos: 31.52 %
 Percentual de ratos: 43.48 %
 Percentual de sapos: 25.00 %
 */
-
+using System;
 public class Program
 {
     public static void Main(string[] args)
@@ -43,7 +43,7 @@ public class Program
         int quantTestes = int.Parse(Console.ReadLine() ?? "");
         for(int i = 0; i < quantTestes; i++)
         {
-            string[] linha = (Console.ReadLine() ?? "").Split(" ");
+            string[] linha = (Console.ReadLine() ?? "").Split(' ');
             int quantCobaias = int.Parse(linha[0]);
             string tipo = linha[1];
             //somando o total de cobaias

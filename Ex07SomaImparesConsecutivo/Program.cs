@@ -14,7 +14,10 @@ public class URI
 {
     public static void Main(string[] args)
     {
+        Console.Write("Digite o valor inicial para o loop: ");
         int X = int.Parse(Console.ReadLine() ?? "");
+
+        Console.Write("Digite o valor máximo para o loop: ");
         int Y = int.Parse(Console.ReadLine() ?? "");
        
         int min = Math.Min(X, Y);
@@ -22,13 +25,16 @@ public class URI
         
         int soma = 0;
 
+        Console.WriteLine("Mostrando os valores: ");
         for(int i = min+1; i < max; i++)
         {
             if(i % 2 != 0)
             {
+                Console.WriteLine(i);
                 soma += i;                
             }
         }
-        Console.WriteLine(soma);
+        
+        Console.WriteLine($"A soma dos valores ímpares do loop foi: {soma}");
     }  
 }
