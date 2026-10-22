@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex07SomaImparesConsecutivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187d389115d087ee303d943acc0a9aa4e7576c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdc75f35274d83ccf4c4c5814906406d70ec7fe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex07SomaImparesConsecutivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex07SomaImparesConsecutivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
