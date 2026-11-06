@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex06SeisNumerosImpares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c544b7c169c1cf1744167383419503a1ca4979ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feead76d2cb5d1c61d887454c272d231519a29ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex06SeisNumerosImpares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex06SeisNumerosImpares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
